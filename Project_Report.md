@@ -14,7 +14,7 @@ Haliç Üniversitesi – Department of Software Engineering
 | **Instructor** | [Instructor Name] |
 | **Submission Date** | 14 / 05 / 2026 |
 | **Live Demo** | [your-live-url.com] |
-| **GitHub Repository** | [github.com/YOUR_USERNAME/YOUR_REPO] |
+| **GitHub Repository** | https://github.com/nerimanakca/neriman-akca-portfolio |
 
 ---
 

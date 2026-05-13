@@ -211,7 +211,7 @@ database/portfolio.sql
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/nerimanakca/neriman-akca-portfolio
 ```
 
 Move the project folder into your local server directory.
