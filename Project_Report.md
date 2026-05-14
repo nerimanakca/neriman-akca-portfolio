@@ -10,10 +10,9 @@ Haliç Üniversitesi – Department of Software Engineering
 | | |
 |---|---|
 | **Student Name** | Neriman Akça |
-| **Student ID** | [Your Student ID] |
-| **Instructor** | [Instructor Name] |
+| **Student ID** | 23091440027 |
 | **Submission Date** | 14 / 05 / 2026 |
-| **Live Demo** | [your-live-url.com] |
+| **Live Demo** | https://nerimanportfolio.infinityfreeapp.com/ |
 | **GitHub Repository** | https://github.com/nerimanakca/neriman-akca-portfolio |
 
 ---
