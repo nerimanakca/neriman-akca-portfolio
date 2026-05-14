@@ -313,8 +313,8 @@ Password: admin123
 | Item                 | Link                                    |
 | -------------------- | --------------------------------------- |
 | 📦 LMS Upload        | Submitted via LMS                       |
-| 🐙 GitHub Repository | [github.com/YOUR_USERNAME/YOUR_REPO](#) |
-| 🌐 Live Demo         | [your-live-url.com](#)                  |
+| 🐙 GitHub Repository | https://github.com/nerimanakca/neriman-akca-portfolio |
+| 🌐 Live Demo         | https://nerimanportfolio.infinityfreeapp.com/         |
 
 ---
 
