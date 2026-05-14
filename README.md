@@ -14,7 +14,7 @@ The project integrates the main web technologies covered throughout the semester
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Portfolio](#)** ← *(Replace with your live URL)*
+🔗 https://nerimanportfolio.infinityfreeapp.com/
 
 ---
 
